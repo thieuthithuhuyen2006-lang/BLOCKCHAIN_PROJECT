@@ -1,6 +1,6 @@
-# HubBlock Đà Lạt – Mô phỏng hệ thống Blockchain
+# Mô phỏng hệ thống Blockchain
 
-Bài tập nhóm môn Chuỗi khối – Trường Đại học Đà Lạt.
+Bài tập nhóm môn Chuỗi khối – Trường Đại học Ngân Hàng.
 Luồng mô phỏng: Hash → Transaction → Chữ ký số → Mempool → Merkle Tree → Block → Proof of Work → Network → Consensus.
 
 ## Cài đặt và chạy
